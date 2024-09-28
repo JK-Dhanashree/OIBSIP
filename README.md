@@ -10,7 +10,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 - VS Code
 ### Technologies:-
 - HTML, CSS & JavaScript
-- 
+
 
 # Task- 1/Calculator
 1. It takes a little skill to create a calculator with basic mathematical functionalities using  HTML, CSS and JavaScript. 
