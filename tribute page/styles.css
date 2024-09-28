@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    padding: 50px 0;
+    background-color: #000;
+}
+
+.header h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.5rem;
+}
+
+.play-button {
+    margin-top: 20px;
+    font-size: 3rem;
+    color: #fff;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.quote-section {
+    background-color: #fff;
+    color: #000;
+    padding: 30px;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.image-section {
+    margin: 30px 0;
+}
+
+.profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.biography-section {
+    padding: 40px 0;
+    text-align: left;
+}
+
+.biography-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.biography-section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+footer {
+    padding: 20px;
+    font-size: 1rem;
+}
