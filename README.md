@@ -10,7 +10,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 - VS Code
 ### Technologies:-
 - HTML, CSS & JavaScript
-- Firebase(For Hosting)
+- 
 
 # Task- 1/Calculator
 1. It takes a little skill to create a calculator with basic mathematical functionalities using  HTML, CSS and JavaScript. 
@@ -18,14 +18,12 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 3. It will need a display screen to display the user’s input and give the results. 
 4. The grid system in CSS is for the alignments of buttons on the calculator. 
 5. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on.
-6. I also add a dark/light mode which looks good to the website.
 
 
 
 # Task- 2/Tribute Page
 1. With a basic understanding of HTML and CSS, we can easily create a page for someone you admire. 
 2. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. 
-3. We can also play around with different font styles and background colors.
 
 
 
@@ -33,7 +31,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 1. A basic to-do app that enables a user to add daily tasks.
 2. The to-do web app must allow users to add new items to a list, and items added to a list is to be visible.
 3. Also, a user can mark a task “complete” upon its successful completion and user can edit & delete their tasks.
-4. There is also a light/dark mode button to look good for the website.
+
 
 # Task- 3/A login authentication
 1.Create a simple login authentication system using a programming language of your choice (e.g., Python, JavaScript, Java, etc.) that allows users to register, login, and access a secured page
